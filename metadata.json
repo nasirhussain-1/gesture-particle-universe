@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris — 3D Particle Universe",
+  "description": "Real-time interactive 3D particle simulation controlled via webcam hand gestures and audio reactivity.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
